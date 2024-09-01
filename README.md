@@ -6,6 +6,6 @@ Internal software operates inside the game process, using an injector to inject 
 
 External software works outside of the game process, which makes them more difficult to detect. They can read and modify the game's memory, making them easier to use and reducing the risk of detection.
 
-# [Download]
+# [Download]()
 
 Archive password: 12345
